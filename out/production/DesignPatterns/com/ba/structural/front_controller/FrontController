@@ -1,0 +1,3 @@
+Front Controller tasarımı spring'de rest api yazarken belirli benzer istekleri aynı yerde karşılamak için özel
+controller'lar oluşturduğumuz yerdir örneğini spring boot'da rest api yazılımı diyebiliriz restaurant projemde örnekleri
+bulunmakta. LoginController , WaiterController,ProductController,CategoryController etc
